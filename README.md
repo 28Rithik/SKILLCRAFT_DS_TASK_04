@@ -50,8 +50,7 @@ The **K-Nearest Neighbors (KNN)** algorithm was used to predict accident severit
 - Accident patterns vary significantly with weather and road conditions.  
 - Visualizations highlight **hotspots for severe accidents**, which can inform preventive measures.  
 
-## 🔗 GitHub Repository
-[Explore the project here](https://lnkd.in/eZsRs83G)  
+## 🔗 GitHub Repository 
 
 ## 📌 Hashtags
 #SkillCraftTechnology #DataScience #Internship #CareerDevelopment #LearningJourney
